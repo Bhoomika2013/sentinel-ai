@@ -1,0 +1,8 @@
+{
+  "name": "SENTINEL",
+  "description": "Real-time governance and safety layer for autonomous financial AI agents with permission control, dynamic spend caps, and AI risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
